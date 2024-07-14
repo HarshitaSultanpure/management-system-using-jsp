@@ -6,15 +6,18 @@ Data Management: CRUD (Create, Read, Update, Delete) operations for managing dat
 Responsive Design: User interface designed with responsiveness in mind for better user experience on various devices.
 
 Technologies Used :-
+
 Frontend:
 1. HTML5
 2. CSS3
 3. JavaScript
+   
 Backend:
 1. Java
 2. JSP (Java Server Pages)
 3. Servlet
 4. JDBC (Java Database Connectivity)
+   
 Database:
  MySQL (or any other relational database)
 
