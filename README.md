@@ -19,7 +19,7 @@ Backend:
 4. JDBC (Java Database Connectivity)
    
 Database:
- MySQL (or any other relational database)
+ MySQL 
 
 Contact
 For any questions or inquiries, please contact at "harshitasultan30304@gmail.com"
